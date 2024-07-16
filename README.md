@@ -1,0 +1,3 @@
+# Data operations with ARM Assembly
+
+This repository is dedicated to a study of data operations using ARM Assembly. Here, the arm_introduction dir is filled with introdutory studies on ARMv7 assembly language. The logical_operation and logical_shift dirs are related to operations on data, mainly the logical operations, logical shift operations and arithmetic shift operation. The dir named raspberrypi_printing contains a use of a arm device (raspberrypi) emulated using QEMU in a Linux device (VM using VirtualBox), accessed by SSH, to print strings into the terminal.
